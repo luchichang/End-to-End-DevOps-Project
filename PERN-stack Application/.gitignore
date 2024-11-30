@@ -1,0 +1,2 @@
+# here double astericks indicates that node_modules directory in any level of project structure are ignored
+**/node_modules
